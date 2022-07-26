@@ -20,4 +20,7 @@ hello world hello git!
 hello world hello git!
 hello world hello git!master test
 hello world hello git!hot-fix test
+
 你好，这是新的版本
+
+果然厉害
